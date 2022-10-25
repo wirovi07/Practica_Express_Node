@@ -1,0 +1,22 @@
+{
+  "name": "practica---express.js---node",
+  "version": "1.0.0",
+  "description": "Se trabajara con este framework con el fin de contextualizar otros framework o librerias como React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wirovi07/Practica---Express.js---Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wirovi07/Practica---Express.js---Node.js/issues"
+  },
+  "homepage": "https://github.com/wirovi07/Practica---Express.js---Node.js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
